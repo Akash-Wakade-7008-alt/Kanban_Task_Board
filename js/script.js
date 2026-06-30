@@ -1,4 +1,4 @@
-let addBtn = document.querySelector("#add-btn");
+let addBtn = document.querySelector("#add-Btn");
 let cancelBtn = document.querySelector("#cancelBtn");
 let form = document.querySelector("form");
 let board = document.querySelector("#board");
